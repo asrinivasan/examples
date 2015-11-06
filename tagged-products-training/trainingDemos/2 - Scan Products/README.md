@@ -9,7 +9,7 @@ In order to use this example, you'll need an EVRYTHNG developer account (go ahea
 * Create an Application
 * Copy the Application Key
 * Update the key in recognizeProductImage.js
-* Download a the QR code PNG
+* Download the QR code image
 
 # Scanning from your Desktop
 
